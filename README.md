@@ -1,13 +1,19 @@
 ## Bem-vindo(a)! 👋🏽👋🏽
 
-<h3>Sobre mim</h3>
+## Sobre mim:
 
-:computer: Estudando e em busca de experiências para por meu conhecimento em prática e atingir um dos meus objetivos, me tornar um <strong>dev. FullStack!</strong>
+:computer: Estudando e em busca de experiências para por meu conhecimento em prática e atingir um dos meus objetivos, me tornar um **dev. Full-Stack!**
 <br><br>
-:books: Buscando conhecimento em diversas áreas da programação, mas, com <strong>bastante foco em Python e desenvolvimento WEB básico (Js, HTML, CSS, etc...).</strong>
+:books: Buscando conhecimento em diversas áreas da programação, mas, com **bastante foco em Python 🐍 e desenvolvimento WEB básico (Js, HTML, CSS, etc...).**
 <br><br>
-:outbox_tray: <strong>Metas de 2021/2022</strong>: Encontrar uma oportunidade para por toda a teorica que estudo em prática, manter sempre o foco em aprender algo novo cada dia que passa e me especializar cada vez mais na área!
+:outbox_tray: **Metas de 2021/2022**: Encontrar uma oportunidade para por toda a teorica que estudo em prática, manter sempre o foco em aprender algo novo cada dia que passa e me especializar cada vez mais na área!
 <br><br> 
+🎓 Estou cursando Técnologo em Informática e realizando cursos on-lines nas plataformas da DIO (Digital Innovation One) e RockeatSeat.
+    Ao finalizar o técnologo (Dez. 2022) estarei dando inicio no Bacharel em Engenharia de Software.
+<br><br>
+🏋🏽‍♂️ Alguns hobbies (ou vícios) além da programação, são a prática de musculação e corridas/caminhadas matinais ou no fim da tarde.
+    
+ 
 
 <div align="center">
   <a href="https://github.com/wagnnermorais">
@@ -15,16 +21,16 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnnermorais&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Wag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wag-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wag-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Wag-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Wag-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
   
-   ##
+   ## Contato:
  
 <div> 
-  <a href="https://instagram.com/wagnmorais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:wagnermoraiscnt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wagnerlmorais" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
