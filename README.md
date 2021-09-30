@@ -1,4 +1,14 @@
-## 👋👋👋
+## Bem-vindo(a)! 👋🏽👋🏽
+
+<h3>Sobre mim</h3>
+
+:computer: Estudando e em busca de experiências para por meu conhecimento em prática e atingir um dos meus objetivos, me tornar um <strong>dev. FullStack!</strong>
+<br><br>
+:books: Buscando conhecimento em diversas áreas da programação, mas, com <strong>bastante foco em Python e desenvolvimento WEB básico (Js, HTML, CSS, etc...).</strong>
+<br><br>
+:outbox_tray: <strong>Metas de 2021/2022</strong>: Encontrar uma oportunidade para por toda a teorica que estudo em prática, manter sempre o foco em aprender algo novo cada dia que passa e me especializar cada vez mais na área!
+<br><br> 
+
 <div align="center">
   <a href="https://github.com/wagnnermorais">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=wagnnermorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
