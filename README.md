@@ -4,7 +4,7 @@
 
 :computer: Estudando e em busca de experiências para por meu conhecimento em prática e atingir um dos meus objetivos, me tornar um **dev. Full-Stack!**
 <br><br>
-:books: Buscando conhecimento em diversas áreas da programação, mas, com **bastante foco em desenvolvimento WEB básico (Js, HTML, CSS, etc...).**
+:books: Buscando conhecimento em diversas áreas da programação, mas, com **bastante foco em desenvolvimento WEB (Js, HTML, CSS, etc...).**
 <br><br>
 :outbox_tray: **Metas de 2021/2022**: Encontrar uma oportunidade para por toda a teorica que estudo em prática, manter sempre o foco em aprender algo novo cada dia que passa e me especializar cada vez mais na área!
 <br><br> 
