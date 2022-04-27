@@ -9,7 +9,7 @@
 :outbox_tray: **Metas de 2021/2022**: Encontrar uma oportunidade para por toda a teorica que estudo em prática, manter sempre o foco em aprender algo novo cada dia que passa e me especializar cada vez mais na área!
 <br><br> 
 🎓 Estou cursando Técnologo em Informática e realizando cursos on-lines nas plataformas da DIO (Digital Innovation One) e RockeatSeat.
-    Ao finalizar o técnologo (Dez. 2022) estarei dando inicio no Bacharel em Engenharia de Software.
+    Ao finalizar o técnologo (Dez. 2022) tenho previsão de iniciar no primeiro semestre de 2023 o curso bacharel em Engenharia de Software.
 <br><br>
 🏋🏽‍♂️ Alguns hobbies (ou vícios) além da programação, são a prática de musculação e corridas/caminhadas matinais ou no fim da tarde.
     
@@ -24,7 +24,6 @@
   <img align="center" alt="Wag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wag-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wag-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wag-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wag-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
   
