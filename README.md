@@ -1,19 +1,5 @@
-## Bem-vindo(a)! 👋🏽👋🏽
-
-## Sobre mim:
-
-:computer: Estudando e em busca de experiências para por meu conhecimento em prática e atingir um dos meus objetivos, me tornar um **dev. Full-Stack!**
-<br><br>
-:books: Buscando conhecimento em diversas áreas da programação, mas, com **bastante foco em desenvolvimento WEB (Js, HTML, CSS, etc...).**
-<br><br>
-:outbox_tray: **Metas de 2021/2022**: Encontrar uma oportunidade para por toda a teorica que estudo em prática, manter sempre o foco em aprender algo novo cada dia que passa e me especializar cada vez mais na área!
-<br><br> 
-🎓 Estou cursando Técnologo em Informática e realizando cursos on-lines nas plataformas da DIO (Digital Innovation One) e RockeatSeat.
-    Ao finalizar o técnologo (Dez. 2022) tenho previsão de iniciar no primeiro semestre de 2023 o curso bacharel em Engenharia de Software.
-<br><br>
-🏋🏽‍♂️ Alguns hobbies (ou vícios) além da programação, são a prática de musculação e corridas/caminhadas matinais ou no fim da tarde.
-    
- 
+new in the world of programming, im getting in love with the <strong>front-end developing area</strong> and with the possibility to learn and explore something new 
+every day.
 
 <div align="center">
   <a href="https://github.com/wagnnermorais">
@@ -27,7 +13,7 @@
   <img align="center" alt="Wag-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
   
-   ## Contato:
+   ## Contact:
  
 <div> 
 <a href = "mailto:wagnermoraiscnt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
