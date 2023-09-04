@@ -1,5 +1,6 @@
-new in the world of programming, im getting in love with the <strong>front-end developing area</strong> and with the possibility to learn and explore something new 
-every day.
+<i>
+   <strong>front-end developer that loves vue js, typescript and modern designs</strong>
+</i>
 
    ## Contact:
  
