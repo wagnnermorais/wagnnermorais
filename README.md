@@ -1,5 +1,5 @@
 <i>
-   <strong>front-end developer that loves vue js, react, typescript and modern designs</strong>
+   <strong>front-end developer that loves react, typescript and modern designs</strong>
 </i>
 
    ## Contact:
